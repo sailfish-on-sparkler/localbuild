@@ -1,0 +1,4 @@
+*.ks
+packages/
+out/
+local-repos/
