@@ -67,5 +67,5 @@ fastboot flash recovery recovery.img
 ### Booting to recovery mode
 Recovery mode only works when booted from lk2nd. There are two easy ways to do this:
 
-- holding down the `*` key **after** the lk2nd version text appears on the screen
+- holding down the `*` key **just before** the lk2nd version text appears on the screen
 - live-booting the recovery image with `fastboot boot recovery.img`
